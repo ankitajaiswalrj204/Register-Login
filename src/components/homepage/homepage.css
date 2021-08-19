@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.Homepage {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  width: 50vw;
+  height: 50vh;
+  box-shadow: 0 0 6px 5px rgb(197, 190, 190);
+  border-radius: 18px;
+  margin-top: 10px;
+  background: white;
+  text-align: center;
+  align-items: center;
+  margin-top: 10%;
+}
+.btn {
+  background: red;
+  color: white;
+  padding: 10px;
+  border-color: whitesmoke;
+  border-radius: 10px;
+  font-weight: 600;
+}
+.heading {
+  font-size: 5vw;
+}
